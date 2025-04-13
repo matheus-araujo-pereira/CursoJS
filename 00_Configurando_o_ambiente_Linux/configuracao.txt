@@ -1,0 +1,1 @@
+Instalar NodeJS, VSCode e algum navegador.
