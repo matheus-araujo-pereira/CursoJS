@@ -1,0 +1,2 @@
+// Printar no console Meu nome é Matheus Araujo Pereira. Estou aprendendo JavaScript às 17 da tarde. E estou muito feliz por isso.
+console.log('Meu nome é "Matheus Araujo Pereira". Estou aprendendo JavaScript às', 17, 'da tarde. E estou muito feliz por isso.');
